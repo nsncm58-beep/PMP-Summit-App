@@ -1,0 +1,25 @@
+{
+  "name": "PMP Growth Summit",
+  "short_name": "PMP Summit",
+  "description": "Schedule, partners, attendees, notes, and venue info for the PMP Growth Summit",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#780000",
+  "theme_color": "#780000",
+  "icons": [
+    {
+      "src": "pmp-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pmp-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
